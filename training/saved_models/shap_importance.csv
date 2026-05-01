@@ -1,0 +1,33 @@
+feature,importance
+contract_risk,0.9619352
+monthly_to_total_ratio,0.3612355
+internetservice_Fiber optic,0.25997233
+monthlycharges,0.20779061
+avg_monthly_spend,0.1751312
+totalcharges,0.17037655
+payment_risk,0.1688213
+tenure,0.12303296
+onlinesecurity_Yes,0.12086654
+techsupport_Yes,0.11581542
+multiplelines_Yes,0.10400396
+streamingtv_Yes,0.08941747
+paperlessbilling,0.085202046
+internetservice_No,0.0824056
+streamingmovies_Yes,0.07540069
+dependents,0.061183076
+multiplelines_No phone service,0.05367973
+onlinebackup_Yes,0.053665794
+seniorcitizen,0.051517203
+service_count,0.029676935
+partner,0.01629808
+deviceprotection_Yes,0.013018457
+tenure_group_1-2yr,0.004911578
+tenure_group_2-4yr,0.004787087
+gender,0.0
+deviceprotection_No internet service,0.0
+onlinesecurity_No internet service,0.0
+onlinebackup_No internet service,0.0
+techsupport_No internet service,0.0
+streamingtv_No internet service,0.0
+streamingmovies_No internet service,0.0
+tenure_group_4+yr,0.0

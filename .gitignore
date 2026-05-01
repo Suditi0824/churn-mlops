@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw_churn.csv
+data/predictions_log.db
+mlruns/
+dashboard/node_modules/
+dashboard/dist/
