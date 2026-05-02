@@ -5,7 +5,7 @@ import {
   XAxis, YAxis, Tooltip, ResponsiveContainer, Cell
 } from 'recharts'
 
-const API = 'http://localhost:8000'
+const API = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 export default function Overview() {
   const [metrics, setMetrics] = useState(null)

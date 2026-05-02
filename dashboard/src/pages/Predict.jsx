@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 
-const API = 'http://localhost:8000'
+const API = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 const DEFAULT = {
   customer_id: 'CUST-003', gender: 1, senior_citizen: 0,
